@@ -1,0 +1,61 @@
+# Core LangChain stack (let pip resolve compatible versions)
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+langsmith
+
+# OpenAI
+openai
+tiktoken
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers
+
+# Search and retrieval
+rank-bm25
+tavily-python
+
+# Data processing
+beautifulsoup4
+lxml
+pandas
+numpy
+
+# Evaluation
+ragas
+
+# ML/DL
+torch
+transformers
+tokenizers
+scikit-learn
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+notebook
+
+# Utilities
+python-dotenv
+requests
+tqdm
+pydantic
+pydantic-settings
+rich
+
+# Document processing
+unstructured
+pypdf
+
+# Other utilities from original
+huggingface-hub
+datasets
+orjson
+httpx
+aiohttp
